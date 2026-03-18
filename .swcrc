@@ -1,0 +1,9 @@
+{
+  "jsc": {
+    "target": "es2022",
+    "parser": { "syntax": "typescript", "tsx": false, "decorators": false },
+    "transform": { "legacyDecorator": false }
+  },
+  "module": { "type": "commonjs" },
+  "sourceMaps": true
+}
