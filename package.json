@@ -1,7 +1,7 @@
 {
   "name": "@jmlq/logger-plugin-mongo",
   "description": "mongodb plugin for JMLQ Logger implementing Clean Architecture principles.",
-  "version": "0.1.0-alpha.13",
+  "version": "0.0.1-beta.1",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "repository": {
@@ -41,7 +41,7 @@
     "README.md"
   ],
   "dependencies": {
-    "@jmlq/logger": "alpha"
+    "@jmlq/logger": "beta"
   },
   "author": "MLahuasi",
   "license": "MIT"
