@@ -207,10 +207,10 @@ const collectionName = process.env.LOGGER_MONGO_COLLECTION_NAME;
 
 ## 🔗 Referencias
 
-- [`@jmlq/logger`](https://github.com/MLahuasi/jmlq-logger#readme)
+- [`@jmlq/logger`](https://github.com/MLahuasi/jmlq-logger/blob/main/README.es.md)
 - Plugins relacionados del ecosistema:
-  - [`@jmlq/logger-plugin-fs`](https://github.com/MLahuasi/jmlq-logger-plugin-fs#readme)
-  - [`@jmlq/logger-plugin-postgresql`](https://github.com/MLahuasi/jmlq-logger-plugin-postgresql#readme)
+  - [`@jmlq/logger-plugin-fs`](https://github.com/MLahuasi/jmlq-logger-plugin-fs/blob/main/README.es.md)
+  - [`@jmlq/logger-plugin-postgresql`](https://github.com/MLahuasi/jmlq-logger-plugin-postgresql/blob/main/README.es.md)
 
 ## ⬅️ 🌐 Ecosistema
 
