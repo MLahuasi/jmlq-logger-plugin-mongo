@@ -1,6 +1,6 @@
 # @jmlq/logger-plugin-mongo 🍃
 
-![](./assets/jmlq-logger-plugin-mongo-banner.png)
+![](./assets/jmlq-logger-plugin-mongo-banner-en.png)
 
 Persistence plugin for **MongoDB** compatible with `@jmlq/logger`.
 
