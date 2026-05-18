@@ -1,5 +1,7 @@
 # @jmlq/logger-plugin-mongo 🍃
 
+![](./assets/jmlq-logger-plugin-mongo-banner.png)
+
 Plugin de persistencia para **MongoDB** compatible con `@jmlq/logger`.
 
 Este paquete implementa un datasource que cumple el contrato `ILogDatasource` del core, permitiendo:
@@ -183,12 +185,16 @@ const collectionName = process.env.LOGGER_MONGO_COLLECTION_NAME;
 
 ## ✅ Checklist
 
-- [ ] Instalar `@jmlq/logger` + `@jmlq/logger-plugin-mongo` + `mongodb`
-- [ ] Crear `IMongoQueryClient` con `MongoClient`
-- [ ] Crear datasource con `createMongoDatasource(options)`
-- [ ] Integrar con `createLogger({ datasources: [...] })`
-- [ ] Configurar índices/retención (opcional)
-- [ ] Integrar en Express (middleware `req.logger`) (opcional)
+- Instalar `@jmlq/logger` + `@jmlq/logger-plugin-mongo` + `mongodb`
+- Crear `IMongoQueryClient` con `MongoClient`
+- Crear datasource con `createMongoDatasource(options)`
+- Integrar con `createLogger({ datasources: [...] })`
+- Configurar índices/retención (opcional)
+- Integrar en Express (middleware `req.logger`) (opcional)
+
+## 🧩 Implementation Example
+
+- [View real integration and documentation](https://github.com/MLahuasi/jmlq-ecosystem/blob/main/doc/es/%40jmlq/logger/mongo.md)
 
 ---
 
